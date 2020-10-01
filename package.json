@@ -1,0 +1,25 @@
+{
+  "name": "module16_homework",
+  "version": "1.0.0",
+  "description": "Homework for FJS module 16",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denkikarasu/module16_homework.git"
+  },
+  "author": "denkikarasu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denkikarasu/module16_homework/issues"
+  },
+  "homepage": "https://github.com/denkikarasu/module16_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  }
+}
